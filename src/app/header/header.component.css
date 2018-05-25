@@ -1,0 +1,25 @@
+
+#readmore{
+    font-size: 30px;
+    color: antiquewhite;
+    background-color: black;
+    width: auto;
+    height: auto;
+    border-radius: 40px;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+   }
+   #itcbook{ 
+       font-size: 60px;
+      
+   }
+   #header{
+       height: 500px;
+       display:flow-root;
+   }
+   .align{
+    padding-left: 40%;
+    padding-top: 10%;
+   }

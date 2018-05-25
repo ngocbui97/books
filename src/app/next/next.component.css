@@ -1,0 +1,38 @@
+.align{
+    font-size: 40px;
+    color: darkslategray;
+}
+#menu1{
+ border-top-left-radius: 43%;
+border-bottom-left-radius: 43%;
+position: relative;
+float:right;
+background-image: url('../../assets/menu1.png');
+background-position: center;
+background-repeat: no-repeat;
+}
+#menu2{
+    border-top-right-radius: 43%;
+    border-bottom-right-radius: 43%;
+    position: relative;
+    float: right;
+    background-image: url('../../assets/menu2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bt{
+   height: 50px;
+   width: 90px;
+   background-color: white;
+   border-style: solid;
+   border-color: dimgray;
+   border-style: inherit;
+}
+#search{
+    background-image: url('../../assets/search.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 56px;
+    width: 56px;
+    background-color: white;
+}
